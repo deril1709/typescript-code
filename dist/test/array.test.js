@@ -12,7 +12,7 @@ describe('array', function () {
         const secondName = ['sage', 'omen'];
     });
     //tuple
-    it('', function () {
+    it('tupple version', function () {
         const person = ['reyna', 'skye', 60];
     });
 });
